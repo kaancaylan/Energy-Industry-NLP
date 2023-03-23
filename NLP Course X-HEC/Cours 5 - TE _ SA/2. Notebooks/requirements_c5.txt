@@ -1,0 +1,17 @@
+more-itertools==8.2.0
+cloudpickle==1.3.0
+pickleshare==0.7.5
+gensim==3.8.1
+pyLDAvis==2.1.2
+tqdm==4.43.0
+#transformers<=3.5.1,>=3.5.0
+transformers
+#flair
+#flair>=0.4.5
+nltk==3.4.5
+seaborn==0.10.0
+matplotlib==3.1.3
+torch
+vaderSentiment_fr
+shap
+Spacy
